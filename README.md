@@ -8,6 +8,7 @@ heyyo
 | ------- |
 | [0001-two-sum](https://github.com/Priyal03/FebruaryAma/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Priyal03/FebruaryAma/tree/master/0004-median-of-two-sorted-arrays) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyal03/FebruaryAma/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,8 @@ heyyo
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Priyal03/FebruaryAma/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyal03/FebruaryAma/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
