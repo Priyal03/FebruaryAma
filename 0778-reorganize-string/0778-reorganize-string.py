@@ -2,37 +2,28 @@ class Solution:
     def reorganizeString(self, s: str) -> str:
         freq = Counter(s)
 
-        max_count, max_letter = 0, ""
+        heap = [(-count,char) for char,count in freq.items()]
+        heapq.heapify(heap)
 
-        for char, count in freq.items():
-            if count > max_count:
-                max_count = count
-                letter = char
+        ans=[]
 
-        if max_count > (len(s) + 1) // 2:
-            return ""
+        while heap:
+            topCount, topChar = heapq.heappop(heap)
+            if not ans or topChar != ans[-1]:
+                ans.append(topChar)
+                if topCount+1 < 0:
+                    heapq.heappush(heap,(topCount+1,topChar))
 
-        ans = [""] * len(s)
-        index = 0
+            else:
+                if not heap: # ran out of other lesser chars and have the most occuring in more number, that is invalid.
+                    return ''
+                secondCount, secondChar = heapq.heappop(heap)
+                ans.append(secondChar)
+                if secondCount +1 <0:
+                    heapq.heappush(heap, (secondCount+1,secondChar))
 
-        while max_count > 0: # place the most freq character from index 0 to all even places
-            ans[index] = letter
-            index += 2
-            max_count -= 1
-
-        freq[letter] = max_count
-
-        for char, count in freq.items(): # place rest of the chars in any order.
-            while count > 0:
-                if index >= len(s):
-                    index = 1
-                ans[index] = char
-                count -= 1
-                index+=2
+                heapq.heappush(heap,(topCount,topChar))
 
         return "".join(ans)
 
-
-# Time complexity: O(N). We will have to iterate over the entire string once to gather the counts of each character. Then, we we place each character in the answer which costs O(N).
-
-# Space complexity: O(k). The counter used to count the number of occurrences will incur a space complexity of O(k). Again, one could argue that because k <= 26, the space complexity is constant.
+# O(n logk) for heap ops and O(k) for freq
