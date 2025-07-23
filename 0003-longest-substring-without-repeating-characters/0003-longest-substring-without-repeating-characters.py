@@ -1,3 +1,19 @@
+#for unicode 154,998 chars
+# class Solution:
+#     def lengthOfLongestSubstring(self, s: str) -> int:
+#         left =0
+#         maxlen = 0
+#         occur={}
+
+#         for i in range(len(s)):
+#             if s[i] in occur:
+#                 left = max(left, occur[s[i]]+1)
+#             maxlen = max(maxlen, i-left+1)
+#             occur[s[i]]=i
+
+#         return maxlen
+
+#for ASCII 256 bit inputs
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         left = 0
