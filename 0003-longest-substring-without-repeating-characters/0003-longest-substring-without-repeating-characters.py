@@ -1,20 +1,19 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        
-        """
-        :type s: str
-        :rtype: int
-        """
-        ans = 0
-        sub = ''
-        
-        for char in s:
+        left = 0
+        maxlen = 0
+        occur = [None]*128
 
-            if char not in sub:
-                sub += char
-                ans = max(ans, len(sub))
-            else:
-                cut = sub.index(char)
-                sub = sub[cut+1:] + char
+        for curr in range(len(s)):
 
-        return ans
+            past_occurrence = occur[ord(s[curr])]
+            
+            if past_occurrence is not None: #if you find again.
+            
+                left = max(past_occurrence + 1, left)#update the left bound value.
+
+            maxlen = max(maxlen, curr - left + 1)
+
+            occur[ord(s[curr])] = curr #save everytime at curr index.
+
+        return maxlen
