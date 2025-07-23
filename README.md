@@ -14,6 +14,7 @@ heyyo
 | ------- |
 | [0001-two-sum](https://github.com/Priyal03/FebruaryAma/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyal03/FebruaryAma/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/Priyal03/FebruaryAma/tree/master/0146-lru-cache) |
 | [0778-reorganize-string](https://github.com/Priyal03/FebruaryAma/tree/master/0778-reorganize-string) |
 ## String
 |  |
@@ -57,4 +58,16 @@ heyyo
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyal03/FebruaryAma/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Priyal03/FebruaryAma/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Priyal03/FebruaryAma/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Priyal03/FebruaryAma/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
