@@ -8,6 +8,7 @@ heyyo
 | ------- |
 | [0001-two-sum](https://github.com/Priyal03/FebruaryAma/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Priyal03/FebruaryAma/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/Priyal03/FebruaryAma/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyal03/FebruaryAma/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Priyal03/FebruaryAma/tree/master/0200-number-of-islands) |
 ## Hash Table
@@ -54,11 +55,13 @@ heyyo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Priyal03/FebruaryAma/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyal03/FebruaryAma/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyal03/FebruaryAma/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Priyal03/FebruaryAma/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
 | ------- |
@@ -87,4 +90,12 @@ heyyo
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Priyal03/FebruaryAma/tree/master/0200-number-of-islands) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Priyal03/FebruaryAma/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Priyal03/FebruaryAma/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
