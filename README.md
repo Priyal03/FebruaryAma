@@ -11,12 +11,14 @@ heyyo
 | [0042-trapping-rain-water](https://github.com/Priyal03/FebruaryAma/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyal03/FebruaryAma/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Priyal03/FebruaryAma/tree/master/0200-number-of-islands) |
+| [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyal03/FebruaryAma/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyal03/FebruaryAma/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/Priyal03/FebruaryAma/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/Priyal03/FebruaryAma/tree/master/0778-reorganize-string) |
 ## String
 |  |
@@ -35,14 +37,17 @@ heyyo
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/Priyal03/FebruaryAma/tree/master/0778-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/Priyal03/FebruaryAma/tree/master/0778-reorganize-string) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/Priyal03/FebruaryAma/tree/master/0778-reorganize-string) |
 ## Binary Search
 |  |
@@ -52,6 +57,7 @@ heyyo
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Priyal03/FebruaryAma/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,4 +104,12 @@ heyyo
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FebruaryAma/tree/master/0042-trapping-rain-water) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
