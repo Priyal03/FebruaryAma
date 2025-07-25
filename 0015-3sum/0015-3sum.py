@@ -1,32 +1,27 @@
 class Solution:
+    
     def threeSum(self, nums: List[int]) -> List[List[int]]:
+        
+        seen ={}
+        dups = set()
+        res=set()
 
-        nums.sort()
-        ans = []
+        for i, val1 in enumerate(nums):
+            
+            if val1 not in dups:
+                dups.add(val1)
 
-        for i in range(len(nums)):
-            if i > 0 and nums[i] == nums[i - 1]:
-                continue
+                for j, val2 in enumerate(nums[i+1:]):
 
-            left = i + 1
-            right = len(nums) - 1
+                    complement = -val2-val1
 
-            while left < right:
+                    if complement in seen and seen[complement]==i:
 
-                total = nums[i] + nums[left] + nums[right]
+                        res.add(tuple(sorted((val1,val2,complement))))
 
-                if total == 0:
-                    ans.append((nums[i], nums[left], nums[right]))
-                    left += 1
-                    right -= 1
-                    while left < right and nums[left] == nums[left - 1]:
-                        left += 1
+                    seen[val2]=i # mark val2 visited for val1 
 
-                elif total < 0:
-                    left += 1
-                elif total > 0:
-                    right -= 1
+        return [list(x) for x in res]
 
-        return ans
 
-# O(n ^2) and O(1) tim sort
+# O(n^2) and O(n) because of map
