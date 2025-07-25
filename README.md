@@ -8,6 +8,7 @@ heyyo
 | ------- |
 | [0001-two-sum](https://github.com/Priyal03/FebruaryAma/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Priyal03/FebruaryAma/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Priyal03/FebruaryAma/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FebruaryAma/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyal03/FebruaryAma/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Priyal03/FebruaryAma/tree/master/0200-number-of-islands) |
@@ -37,6 +38,7 @@ heyyo
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Priyal03/FebruaryAma/tree/master/0015-3sum) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/Priyal03/FebruaryAma/tree/master/0778-reorganize-string) |
 ## Heap (Priority Queue)
@@ -99,6 +101,7 @@ heyyo
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Priyal03/FebruaryAma/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FebruaryAma/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
