@@ -13,6 +13,7 @@ heyyo
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyal03/FebruaryAma/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Priyal03/FebruaryAma/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
+| [1036-rotting-oranges](https://github.com/Priyal03/FebruaryAma/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Priyal03/FebruaryAma/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ heyyo
 | ------- |
 | [0200-number-of-islands](https://github.com/Priyal03/FebruaryAma/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Priyal03/FebruaryAma/tree/master/0210-course-schedule-ii) |
+| [1036-rotting-oranges](https://github.com/Priyal03/FebruaryAma/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -102,6 +104,7 @@ heyyo
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Priyal03/FebruaryAma/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/Priyal03/FebruaryAma/tree/master/1036-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
