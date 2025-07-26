@@ -10,6 +10,7 @@ heyyo
 | [0004-median-of-two-sorted-arrays](https://github.com/Priyal03/FebruaryAma/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Priyal03/FebruaryAma/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FebruaryAma/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Priyal03/FebruaryAma/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyal03/FebruaryAma/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Priyal03/FebruaryAma/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
@@ -62,11 +63,13 @@ heyyo
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Priyal03/FebruaryAma/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Priyal03/FebruaryAma/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FebruaryAma/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Priyal03/FebruaryAma/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyal03/FebruaryAma/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
