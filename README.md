@@ -17,6 +17,7 @@ heyyo
 | [1036-rotting-oranges](https://github.com/Priyal03/FebruaryAma/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Priyal03/FebruaryAma/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/Priyal03/FebruaryAma/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Priyal03/FebruaryAma/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ heyyo
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyal03/FebruaryAma/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Priyal03/FebruaryAma/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
 | ------- |
@@ -137,4 +139,8 @@ heyyo
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Priyal03/FebruaryAma/tree/master/0210-course-schedule-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Priyal03/FebruaryAma/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
