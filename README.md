@@ -13,6 +13,7 @@ heyyo
 | [0042-trapping-rain-water](https://github.com/Priyal03/FebruaryAma/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Priyal03/FebruaryAma/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyal03/FebruaryAma/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Priyal03/FebruaryAma/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Priyal03/FebruaryAma/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
 | [1036-rotting-oranges](https://github.com/Priyal03/FebruaryAma/tree/master/1036-rotting-oranges) |
@@ -82,6 +83,7 @@ heyyo
 | [0042-trapping-rain-water](https://github.com/Priyal03/FebruaryAma/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Priyal03/FebruaryAma/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyal03/FebruaryAma/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Priyal03/FebruaryAma/tree/master/0198-house-robber) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Priyal03/FebruaryAma/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Stack
 |  |
