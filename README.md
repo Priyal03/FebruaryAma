@@ -107,6 +107,7 @@ heyyo
 | ------- |
 | [0200-number-of-islands](https://github.com/Priyal03/FebruaryAma/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Priyal03/FebruaryAma/tree/master/0210-course-schedule-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyal03/FebruaryAma/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -157,4 +158,12 @@ heyyo
 |  |
 | ------- |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Priyal03/FebruaryAma/tree/master/3751-maximum-frequency-after-subarray-operation) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyal03/FebruaryAma/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyal03/FebruaryAma/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
