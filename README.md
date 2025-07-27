@@ -12,6 +12,7 @@ heyyo
 | [0015-3sum](https://github.com/Priyal03/FebruaryAma/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FebruaryAma/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Priyal03/FebruaryAma/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Priyal03/FebruaryAma/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyal03/FebruaryAma/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Priyal03/FebruaryAma/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Priyal03/FebruaryAma/tree/master/0200-number-of-islands) |
@@ -48,6 +49,7 @@ heyyo
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyal03/FebruaryAma/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Priyal03/FebruaryAma/tree/master/0055-jump-game) |
 | [0778-reorganize-string](https://github.com/Priyal03/FebruaryAma/tree/master/0778-reorganize-string) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Priyal03/FebruaryAma/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Sorting
@@ -83,6 +85,7 @@ heyyo
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FebruaryAma/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Priyal03/FebruaryAma/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Priyal03/FebruaryAma/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyal03/FebruaryAma/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Priyal03/FebruaryAma/tree/master/0198-house-robber) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Priyal03/FebruaryAma/tree/master/3751-maximum-frequency-after-subarray-operation) |
