@@ -15,6 +15,7 @@ heyyo
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyal03/FebruaryAma/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Priyal03/FebruaryAma/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Priyal03/FebruaryAma/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/Priyal03/FebruaryAma/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
 | [1036-rotting-oranges](https://github.com/Priyal03/FebruaryAma/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Priyal03/FebruaryAma/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -152,6 +153,7 @@ heyyo
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Priyal03/FebruaryAma/tree/master/0238-product-of-array-except-self) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Priyal03/FebruaryAma/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Priyal03/FebruaryAma/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Enumeration
