@@ -58,12 +58,14 @@ heyyo
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Priyal03/FebruaryAma/tree/master/0015-3sum) |
+| [0295-find-median-from-data-stream](https://github.com/Priyal03/FebruaryAma/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/Priyal03/FebruaryAma/tree/master/0778-reorganize-string) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/Priyal03/FebruaryAma/tree/master/1108-analyze-user-website-visit-pattern) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Priyal03/FebruaryAma/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/Priyal03/FebruaryAma/tree/master/0778-reorganize-string) |
 ## Counting
@@ -104,6 +106,7 @@ heyyo
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Priyal03/FebruaryAma/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/Priyal03/FebruaryAma/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -137,6 +140,7 @@ heyyo
 | [0011-container-with-most-water](https://github.com/Priyal03/FebruaryAma/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Priyal03/FebruaryAma/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FebruaryAma/tree/master/0042-trapping-rain-water) |
+| [0295-find-median-from-data-stream](https://github.com/Priyal03/FebruaryAma/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -179,4 +183,8 @@ heyyo
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Priyal03/FebruaryAma/tree/master/0079-word-search) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Priyal03/FebruaryAma/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
