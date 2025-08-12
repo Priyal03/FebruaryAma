@@ -2,8 +2,10 @@ class MedianFinder:
 
     def __init__(self):
         self.nums=[]
+        self.length=0
 
     def addNum(self, value: int) -> None:
+        self.length+=1
         if not self.nums:
             self.nums.append(value)
         else:
@@ -11,11 +13,11 @@ class MedianFinder:
             self.nums.insert(left_index, value)
 
     def findMedian(self) -> float:
-        size = len(self.nums)
-        if size & 1 :
-            return float(self.nums[size//2])
+        half = self.length//2
+        if self.length & 1 :
+            return float(self.nums[half])
         else:
-            return (self.nums[size//2]+self.nums[size//2-1])/2
+            return (self.nums[half]+self.nums[half-1])/2
 
 # O(N) due to list insertion. and O(N) for nums
 
