@@ -71,6 +71,7 @@ heyyo
 | [0253-meeting-rooms-ii](https://github.com/Priyal03/FebruaryAma/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Priyal03/FebruaryAma/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/Priyal03/FebruaryAma/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/Priyal03/FebruaryAma/tree/master/0778-reorganize-string) |
 ## Counting
 |  |
@@ -122,11 +123,13 @@ heyyo
 | [0200-number-of-islands](https://github.com/Priyal03/FebruaryAma/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Priyal03/FebruaryAma/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyal03/FebruaryAma/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0744-network-delay-time](https://github.com/Priyal03/FebruaryAma/tree/master/0744-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Priyal03/FebruaryAma/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Priyal03/FebruaryAma/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/Priyal03/FebruaryAma/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/Priyal03/FebruaryAma/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
@@ -162,6 +165,7 @@ heyyo
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Priyal03/FebruaryAma/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/Priyal03/FebruaryAma/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -193,4 +197,8 @@ heyyo
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Priyal03/FebruaryAma/tree/master/0295-find-median-from-data-stream) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Priyal03/FebruaryAma/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
