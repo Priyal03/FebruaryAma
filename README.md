@@ -15,6 +15,7 @@ heyyo
 | [0055-jump-game](https://github.com/Priyal03/FebruaryAma/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/Priyal03/FebruaryAma/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyal03/FebruaryAma/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Priyal03/FebruaryAma/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Priyal03/FebruaryAma/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Priyal03/FebruaryAma/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Priyal03/FebruaryAma/tree/master/0238-product-of-array-except-self) |
@@ -32,6 +33,7 @@ heyyo
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyal03/FebruaryAma/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Priyal03/FebruaryAma/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/Priyal03/FebruaryAma/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/Priyal03/FebruaryAma/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/Priyal03/FebruaryAma/tree/master/0778-reorganize-string) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/Priyal03/FebruaryAma/tree/master/1108-analyze-user-website-visit-pattern) |
@@ -62,6 +64,7 @@ heyyo
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Priyal03/FebruaryAma/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Priyal03/FebruaryAma/tree/master/0169-majority-element) |
 | [0253-meeting-rooms-ii](https://github.com/Priyal03/FebruaryAma/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Priyal03/FebruaryAma/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
@@ -78,6 +81,7 @@ heyyo
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Priyal03/FebruaryAma/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/Priyal03/FebruaryAma/tree/master/0778-reorganize-string) |
 ## Binary Search
@@ -90,6 +94,7 @@ heyyo
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Priyal03/FebruaryAma/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Priyal03/FebruaryAma/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Priyal03/FebruaryAma/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
