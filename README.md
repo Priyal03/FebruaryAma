@@ -30,6 +30,7 @@ heyyo
 | ------- |
 | [0001-two-sum](https://github.com/Priyal03/FebruaryAma/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyal03/FebruaryAma/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/Priyal03/FebruaryAma/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/Priyal03/FebruaryAma/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/Priyal03/FebruaryAma/tree/master/0778-reorganize-string) |
@@ -41,6 +42,7 @@ heyyo
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyal03/FebruaryAma/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Priyal03/FebruaryAma/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Priyal03/FebruaryAma/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/Priyal03/FebruaryAma/tree/master/0127-word-ladder) |
 | [0778-reorganize-string](https://github.com/Priyal03/FebruaryAma/tree/master/0778-reorganize-string) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/Priyal03/FebruaryAma/tree/master/1108-analyze-user-website-visit-pattern) |
 ## Sliding Window
@@ -127,6 +129,7 @@ heyyo
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Priyal03/FebruaryAma/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Priyal03/FebruaryAma/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Priyal03/FebruaryAma/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/Priyal03/FebruaryAma/tree/master/0744-network-delay-time) |
