@@ -24,6 +24,7 @@ heyyo
 | [1036-rotting-oranges](https://github.com/Priyal03/FebruaryAma/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Priyal03/FebruaryAma/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/Priyal03/FebruaryAma/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Priyal03/FebruaryAma/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Priyal03/FebruaryAma/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Priyal03/FebruaryAma/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Hash Table
@@ -70,6 +71,7 @@ heyyo
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FebruaryAma/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/Priyal03/FebruaryAma/tree/master/0778-reorganize-string) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/Priyal03/FebruaryAma/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Priyal03/FebruaryAma/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -89,6 +91,7 @@ heyyo
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Priyal03/FebruaryAma/tree/master/0004-median-of-two-sorted-arrays) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Priyal03/FebruaryAma/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Priyal03/FebruaryAma/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +107,7 @@ heyyo
 | [0055-jump-game](https://github.com/Priyal03/FebruaryAma/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyal03/FebruaryAma/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Priyal03/FebruaryAma/tree/master/0198-house-robber) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Priyal03/FebruaryAma/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Priyal03/FebruaryAma/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Stack
 |  |
